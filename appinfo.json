@@ -1,0 +1,19 @@
+{
+  "uuid": "5f4711a6-0391-4c67-b4cf-ef7f8fa6366f",
+  "shortName": "pebble-todo",
+  "longName": "pebble-todo",
+  "companyName": "MakeScottAwesome",
+  "versionCode": 1,
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt"],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "new_issue": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
